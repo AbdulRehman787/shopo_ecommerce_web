@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headcont1{
+    height: 40px;
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    justify-content: center !important;
+    align-items: center;
+}
+.sam{
+    margin-left: 500px !important;
+}

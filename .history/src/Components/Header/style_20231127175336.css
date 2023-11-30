@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headcont1{
+
+   
+    border-bottom: 1px solid #ccc;
+    justify-content: center !important;
+    align-items: center;
+}
+.container{
+    justify-content: center !important;
+    
+}
+.sam{
+    margin-left: 500px !important;
+}
