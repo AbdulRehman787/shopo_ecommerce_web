@@ -3,7 +3,8 @@ import './style.css'
 const Button = () => {
   return (
    <>
-<button className='blackbutton'>Become a Seller </button>
+<button className='blackbutton'>Become a Seller ?
+</button>
    </>
   )
 }

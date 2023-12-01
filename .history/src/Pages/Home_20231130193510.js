@@ -7,7 +7,6 @@ const Home = () => {
     <>
     <Topheader/> 
     <Navbar />
-    <Hero />
     </>
   )
 }

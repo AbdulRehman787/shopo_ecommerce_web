@@ -1,0 +1,17 @@
+.container1{
+    margin: 50px 0px ;
+    width: 100%;
+    
+}
+
+.container1_left{
+    width: 65%;
+}
+.container1_right{
+    margin-left: 40px;
+    width: 35%;
+}
+
+.container1_right_img2{
+    margin-top: 10px;
+}
