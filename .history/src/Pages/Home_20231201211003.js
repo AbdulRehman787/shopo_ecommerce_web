@@ -9,7 +9,7 @@ const Home = () => {
     <Topheader/> 
     <Navbar />
     <Hero />
-    <HeroCard />
+    <
     </>
   )
 }
